@@ -166,8 +166,9 @@ Debugging é como ser um detetive do código! É o processo de encontrar e corri
    - Passe o mouse sobre as variáveis para ver seus valores
    - Use o console de debug para testar expressões
    - Os valores das variáveis são atualizados em tempo real
-  
-   <div align="center">https://github.com/user-attachments/assets/1f6ae79a-f708-4348-85bc-3716df90e70b</div>
+
+  <video controls width="250"><source src="./estrutura_condicionais_python.mp4 type="video/mp4" /></video>
+
 
 
 
